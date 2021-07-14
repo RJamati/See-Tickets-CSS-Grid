@@ -2,7 +2,7 @@
 
 The Search Results page for See Tickets.
 
-You can see the page live at https://rjamati.github.io/See-Tickets-CSS-Grid/index.html
+You can see the page live at https://rjamati.github.io/See-Tickets-CSS-Grid/
 
 # Preparing the Project
 I started off by creating the index.html file and also installed SCSS into the project.
